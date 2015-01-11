@@ -18,15 +18,15 @@
     <ClCompile Include="ReflectionMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\HeadFile\gltools.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\HeadFile\GLee.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="..\HeadFile\gltools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\HeadFile\math3d.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
